@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{2844F10D-3C87-439F-BA2F-6A40F920BD32}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Project2" Key="{7ACC8A14-7474-41B0-A0DC-3F1C1173ABFA}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Project2" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Form3" Key="{C934DCEE-AF77-49A0-8966-B0C6D99034CB}">
+								<Image FileName="1178829928" Left="0" Top="0" Right="644" Bottom="481" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TForm3" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Form3" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Panel1" Key="{7C56A7D7-3FED-4B64-89D8-1CECB664A3B8}">
+										<Image FileName="1178829928" Left="11" Top="34" Right="633" Bottom="64" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TPanel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Panel1" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Button1" Key="{A04868CA-F563-4563-BF24-2A2BD2F7AC99}">
+												<Image FileName="1178829928" Left="15" Top="38" Right="90" Bottom="60" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TButton" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Button1" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Button2" Key="{AE5337BF-82D9-48A3-B190-BDD156F9DF0D}">
+												<Image FileName="-227793338" Left="96" Top="38" Right="171" Bottom="60" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TButton" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Button2" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Button3" Key="{407A2C23-9BFC-4900-8C33-A79E8252738D}">
+												<Image FileName="-154197007" Left="177" Top="38" Right="252" Bottom="60" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TButton" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Button3" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="Edit1" Key="{BA0588FF-3193-4F83-A1FA-AE90DD2AA73A}">
+										<Image FileName="393237786" Left="11" Top="70" Right="633" Bottom="93" />
+										<TypeInfo Item0="{9A2610CA-FFC6-4B43-8F63-84600C21B05C}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TEdit" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Edit1" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Project2" Owner="{7ACC8A14-7474-41B0-A0DC-3F1C1173ABFA}">
+			<Child Name="Form3" Owner="{C934DCEE-AF77-49A0-8966-B0C6D99034CB}">
+				<Child Name="Panel1" Owner="{7C56A7D7-3FED-4B64-89D8-1CECB664A3B8}">
+					<Child Name="Button1" Owner="{A04868CA-F563-4563-BF24-2A2BD2F7AC99}" />
+					<Child Name="Button2" Owner="{AE5337BF-82D9-48A3-B190-BDD156F9DF0D}" />
+					<Child Name="Button3" Owner="{407A2C23-9BFC-4900-8C33-A79E8252738D}" />
+				</Child>
+				<Child Name="Edit1" Owner="{BA0588FF-3193-4F83-A1FA-AE90DD2AA73A}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
